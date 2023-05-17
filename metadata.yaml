@@ -1,0 +1,42 @@
+_repo: The-Territorial-Divisions-1914-1918_70633
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stirling, John
+    gutenberg_agent_id: '55813'
+    url: http://www.gutenberg.org/2009/agents/55813
+description: ''
+gutenberg_issued: '2023-04-23'
+identifiers:
+  gutenberg: '70633'
+  lccn: '24010237'
+language: en
+pgterms:marc904: https://archive.org/details/territorialdivis00stirrich/page/20
+pgterms:marc905: 20190723003435stirling
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Bob Taylor, Brian Coe and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJ.M. Dent & Sons Ltd, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcc 'D501'
+- GITenberg
+tableOfContents: 42nd (East Lancashire) Division. First Line -- 43rd (Wessex Division),
+  First Line. 44th (Home Counties Division), First Line. 45th (Wessex) Division, Second
+  Line -- 46th (North Midland) Division. First Line -- 47th (London) Division, Formerly
+  2nd London. First Line -- 48th (South Midland) Division. First Line -- 49th (West
+  Riding) Division. First Line -- 50th (Northumbrian) Division. First Line -- 51st
+  (Highland) Division. First Line -- 52nd (Lowland) Division. First Line -- 53rd (Welsh)
+  Division. First Line -- 54th (East Anglian) Division. First Line -- 55th (West Lancashire)
+  Division. First Line -- 56th (London) Division, Formerly 1st London. First Line
+  -- 57th (West Lancashire) Division. Second Line -- 58th (1st London) Division. Second
+  Line -- 59th (North Midland) Division. Second Line -- 60th (2nd London) Division.
+  Second Line -- 61st (South Midland) Division. Second Line -- 62nd (West Riding)
+  Division. Second Line -- 66th (East Lancashire) Division. Second Line.
+title: The Territorial Divisions, 1914-1918
+url: http://www.gutenberg.org/ebooks/70633
